@@ -1,0 +1,4 @@
+include ':scan'
+include ':viewing'
+include ':bgm'
+rootProject.name = "TIS"
